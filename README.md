@@ -6,7 +6,7 @@ Discover Animals App Demo es una aplicación pequeña desarrollada en Flutter pa
 
 El diseño que se implementó corresponde fue el siguiente:
 
-- [image](https://www.instagram.com/p/CKX5-NFFOdt/?utm_source=ig_web_copy_link)]
+![image](screenshot/screenshot_1.png)
 
 Créditos a
 
